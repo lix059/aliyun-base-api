@@ -1,7 +1,8 @@
 # aliyun-base-api
 a base aliyun api
 
-### npm install aliyun-base-api --save
+### install
+        npm install aliyun-base-api --save
 
 ### how to use 
  you can extend the base class create your aliyun class, like demo
