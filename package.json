@@ -1,0 +1,17 @@
+{
+  "name": "aliyun-base-api",
+  "description": "Aliyun Base Api for nodejs",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "author": {
+    "name": "lix059",
+    "email": "lix059@gmail.com"
+  },
+  "homepage": "https://github.com/lix059/aliyun-base-api",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "engines": {
+    "node": ">= 6.0.0"
+  }
+}
